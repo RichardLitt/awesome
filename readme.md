@@ -552,6 +552,7 @@
 - [Homematic](https://github.com/hobbyquaker/awesome-homematic) - Smart home devices.
 - [Ledger](https://github.com/sfischer13/awesome-ledger) - Double-entry accounting on the command-line.
 - [Uncopyright](https://github.com/johnjago/awesome-uncopyright) - Public domain works.
+- [Contribute](https://github.com/RichardLitt/awesome-contribute) - Awesome contributing guides for open source development.
 
 
 ## License
